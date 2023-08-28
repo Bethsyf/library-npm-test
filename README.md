@@ -7,3 +7,5 @@ Mi primera libreria con npm que proporciona componentes personalizables de texto
 Para instalar la librería, ejecuta:
 
 npm install prueba-lib-npm
+
+hola
