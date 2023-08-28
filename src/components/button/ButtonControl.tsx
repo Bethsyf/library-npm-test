@@ -6,7 +6,7 @@ interface ButtonComponentProps {
   onClick: () => void;
   backgroundColor?: string;
   color?: string;
-  children: React.Node;
+  children: React.ReactNode;
 }
 
 const ButtonControl = ({
